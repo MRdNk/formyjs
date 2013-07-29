@@ -1,0 +1,23 @@
+{
+  "name": "formyjs",
+  "version": "0.0.0",
+  "description": "A client-side (browserify) library with get/set and validation of text/templates",
+  "main": "formyjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MRdNk/formyjs.git"
+  },
+  "keywords": [
+    "form",
+    "browserify",
+    "text-templates"
+  ],
+  "author": "mrdnk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MRdNk/formyjs/issues"
+  }
+}
